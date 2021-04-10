@@ -8,7 +8,7 @@ Updating and adding to the code website so that it follows accessibility standar
 *  CSS
 
 ## Website
-http://esherrow.github.io/horiseon/
+http://esherrow.github.io/horiseon-access/develop/index.html
 
 ## Contribution
 Elizabeth Sherrow
